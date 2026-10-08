@@ -1,0 +1,8 @@
+# Keil 编译输出
+**/Objects/
+**/Listings/
+**/DebugConfig/
+
+# 个人界面配置与备份
+*.uvguix.*
+*.bak
